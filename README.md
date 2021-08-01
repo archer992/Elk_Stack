@@ -3,21 +3,21 @@
 
 The files in this repository were used to configure the network depicted below.
 
-Images/Diagram Elk_Stack.png
 ![image](https://user-images.githubusercontent.com/65125381/127758013-39bfb513-f9d8-4b35-becf-af48fa65b7ae.png)
-
+Images/Diagram Elk_Stack.png
 
 These files have been tested and used to generatte a live Elk deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
 
+![image](https://user-images.githubusercontent.com/65125381/127758041-801cae03-94da-42f9-a8a5-f57ecb556832.png)
 Images/Pentest.yml.png
 
-
+![image](https://user-images.githubusercontent.com/65125381/127758050-9fc95134-9ed1-41b3-9d45-c9566876dce7.png)
 Images/install-elk.yml.png
 
-
+![image](https://user-images.githubusercontent.com/65125381/127758057-7a092494-97c1-4b1f-a013-f267d157f607.png)
 Images/metricbeat-playbook.yml.png
 
-
+![image](https://user-images.githubusercontent.com/65125381/127758063-2109938d-2e16-4ced-a1a7-021208907a6f.png)
 Images/filebeat-playbook.yml.png
 
 
@@ -92,6 +92,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running 'docker ps' after successfully configuring the Elk instance.
 
+![image](https://user-images.githubusercontent.com/65125381/127758068-3b26808d-3dac-4d0c-9207-92f5172dd725.png)
 (Images/sudo docker ps.png)
 
 ### Target Machines & Beats

@@ -11,14 +11,11 @@ These files have been tested and used to generatte a live Elk deployment on Azur
 ![image](https://user-images.githubusercontent.com/65125381/127758041-801cae03-94da-42f9-a8a5-f57ecb556832.png)
 Images/Pentest.yml.png
 
-![image](https://user-images.githubusercontent.com/65125381/127758050-9fc95134-9ed1-41b3-9d45-c9566876dce7.png)
-Images/install-elk.yml.png
+![image](https://user-images.githubusercontent.com/65125381/127758050-9fc95134-9ed1-41b3-9d45-c9566876dce7.png)Images/install-elk.yml.png
 
-![image](https://user-images.githubusercontent.com/65125381/127758057-7a092494-97c1-4b1f-a013-f267d157f607.png)
-Images/metricbeat-playbook.yml.png
+![image](https://user-images.githubusercontent.com/65125381/127758057-7a092494-97c1-4b1f-a013-f267d157f607.png)Images/metricbeat-playbook.yml.png
 
-![image](https://user-images.githubusercontent.com/65125381/127758063-2109938d-2e16-4ced-a1a7-021208907a6f.png)
-Images/filebeat-playbook.yml.png
+![image](https://user-images.githubusercontent.com/65125381/127758063-2109938d-2e16-4ced-a1a7-021208907a6f.png)Images/filebeat-playbook.yml.png
 
 
 This document contains the following details:

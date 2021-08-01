@@ -7,16 +7,16 @@ Images/Diagram Elk_Stack.png
 
 These files have been tested and used to generatte a live Elk deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
 
-Elk_Stack/Images/Pentest.yml.png
+Images/Pentest.yml.png
 
 
-Elk_Stack/Images/install-elk.yml.png
+Images/install-elk.yml.png
 
 
-Elk_Stack/Images/metricbeat-playbook.yml.png
+Images/metricbeat-playbook.yml.png
 
 
-Elk_Stack/Images/filebeat-playbook.yml.png
+Images/filebeat-playbook.yml.png
 
 
 This document contains the following details:

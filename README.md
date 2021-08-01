@@ -6,7 +6,7 @@ The files in this repository were used to configure the network depicted below.
 ![image](https://user-images.githubusercontent.com/65125381/127758013-39bfb513-f9d8-4b35-becf-af48fa65b7ae.png)
 Images/Diagram Elk_Stack.png
 
-These files have been tested and used to generatte a live Elk deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
+These files have been tested and used to generate a live Elk deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
 
 ![image](https://user-images.githubusercontent.com/65125381/127758041-801cae03-94da-42f9-a8a5-f57ecb556832.png)
 Images/Pentest.yml.png
